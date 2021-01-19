@@ -1,0 +1,4 @@
+log/screenshots
+log/*.html
+log/*.xml
+Gemfile.lock
